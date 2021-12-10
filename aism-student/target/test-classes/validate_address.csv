@@ -1,0 +1,8 @@
+input, expect
+, false
+/, false
+`, false
+#, fasle
+%, false
+.+, fasle
+so 1 dai co viet, true
