@@ -1,0 +1,8 @@
+input, expect
+lê Trọng Đạt, TRUE
+, FALSE
+"", FALSE
+\, FALSE
+Le trong dat2, FALSE
+le     trong     dat, TRUE
+le\ttrong\tdat, FALSE
